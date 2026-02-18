@@ -7,7 +7,7 @@ This project is a Flutter mobile application that replicates the mobile web home
 ## 🚀 Flutter Version Used
 
 Flutter Channel: Stable  
-Flutter Version: 3.41.1  
+Flutter Version: 3.41.1
 
 To verify the version:
 
@@ -20,12 +20,12 @@ flutter --version
 
 ### 1. Clone the repository
 
-git clone <your-repository-link>
-cd kovon_home_assignment
+git clone https://github.com/manikanta9090/kovon-home-assignment.git
 
 
 ### 2. Install dependencies
 
+cd kovon-home-assignment
 flutter pub get
 
 
@@ -61,6 +61,10 @@ lib/
 ### Folder Explanation
 
 - **main.dart** – Entry point of the application.
-- **screens/** – Contains all app screens.
+- **screens/** – Contains app screens (Home + second screen).
 - **widgets/** – Contains reusable UI components.
-- **utils/** – Contains constants and shared styles.
+- **utils/** – Contains shared constants and styling.
+
+---
+
+Thank you for reviewing this assignment.
